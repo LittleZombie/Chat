@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138638290046",
+    "firebase_url": "https://char-21d5c.firebaseio.com",
+    "project_id": "char-21d5c",
+    "storage_bucket": "char-21d5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138638290046:android:47ca32b10f6a26f0",
+        "android_client_info": {
+          "package_name": "chat.licen.com.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138638290046-qc6aj5gfst66h94is8g859h3v9fldg7u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVuUlUVRRNo_7aUQ9R5S_aNKTgq90fFiE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
